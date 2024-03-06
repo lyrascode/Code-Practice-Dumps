@@ -1,0 +1,39 @@
+<button class="Uber-button">Request now</button>
+<button class="Amazon-button">Add to Cart</button>
+<button class="GitHub">Sign up</button>
+
+<style>
+    .Uber-button{
+        background-color: black;
+        color:white;
+        font-size:18px;
+        width:150px;
+        height:40px;
+        margin-left:50px;
+        margin-top: 30px;
+    }
+
+    .Amazon-button{
+        background-color: rgb(255, 216, 20);
+        margin-left:100px;
+        width:200px;
+        height:40px;
+        font-weight:bold;
+        border-radius:15px;
+        font-size:15px;
+
+    }
+
+    .GitHub{
+        background-color: rgb(46,164,79);
+        font-weight:bold;
+        border-radius:5px;
+        margin-left:50px;
+        width:100px;
+        height:50px;
+        color:white;
+        font-size:15px;
+        border:none;
+        
+    }
+</style>
